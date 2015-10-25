@@ -71,7 +71,7 @@
         android:layout_below="@id/date_group"
         android:layout_height="match_parent"
         android:layout_width="match_parent">
-        <FrameLayout
+        <RelativeLayout
             android:id="@+id/main_pane"
             android:layout_weight="6"
             android:layout_height="match_parent"
